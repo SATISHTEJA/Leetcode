@@ -18,6 +18,7 @@ class Solution {
                     {
                         javab++;
                         words[j] = "0";
+                        words[i] = "0";
                         break;
                     }
                 }
